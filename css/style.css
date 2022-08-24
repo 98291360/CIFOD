@@ -1,0 +1,14 @@
+.Mydocs{
+	margin-left: 70px;
+	font-weight: bold;
+	text-align: left;
+	font-family: sans-serif, bold, Arial,Helvetica;
+	font-size: 14;
+}
+form select{
+	background-color: #ffffff;
+}
+
+form input{
+   padding: 10px;
+}
